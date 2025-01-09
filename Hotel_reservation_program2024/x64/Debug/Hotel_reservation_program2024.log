@@ -1,0 +1,3 @@
+﻿  Hotelli.cpp
+C:\Users\matia\Hotel_reservation_program2024\Hotel_reservation_program2024\Hotelli.cpp(50,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Hotel_reservation_program2024.vcxproj -> C:\Users\matia\Hotel_reservation_program2024\x64\Debug\Hotel_reservation_program2024.exe

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matia\\Hotel_reservation_program2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715355AE-FDC9-42D2-ADEE-A3934255A01C}|Hotel_reservation_program2024\\Hotel_reservation_program2024.vcxproj|C:\\Users\\matia\\Hotel_reservation_program2024\\Hotel_reservation_program2024\\Hotelli.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{715355AE-FDC9-42D2-ADEE-A3934255A01C}|Hotel_reservation_program2024\\Hotel_reservation_program2024.vcxproj|solutionrelative:Hotel_reservation_program2024\\Hotelli.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hotelli.cpp",
+              "DocumentMoniker": "C:\\Users\\matia\\Hotel_reservation_program2024\\Hotel_reservation_program2024\\Hotelli.cpp",
+              "RelativeDocumentMoniker": "Hotel_reservation_program2024\\Hotelli.cpp",
+              "ToolTip": "C:\\Users\\matia\\Hotel_reservation_program2024\\Hotel_reservation_program2024\\Hotelli.cpp",
+              "RelativeToolTip": "Hotel_reservation_program2024\\Hotelli.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T10:15:24.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
